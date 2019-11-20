@@ -22,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/jereddanielson/parcel-boilerplate/issues"
   },
-  "homepage": "https://github.com/jereddanielson/parcel-boilerplate#readme"
+  "homepage": "https://github.com/jereddanielson/parcel-boilerplate#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.23.7",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
 }

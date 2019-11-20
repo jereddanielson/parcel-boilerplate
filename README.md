@@ -27,6 +27,8 @@ $ npm i
 $ npm run start
 ```
 
+Parcel will automatically install everything necessary to build and run your project, including Babel, React, TypeScript, and SCSS.
+
 ## To build
 
 ```
